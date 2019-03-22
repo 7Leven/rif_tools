@@ -5,10 +5,10 @@ This Git repository is dedicated to the projects and tools developed by the Quan
 
 ## Current Members
 
-	- Patrick Miramontes 	(Director 		- Senior)
+	- Patrick Miramontes 		(Director 	- Senior)
 	- Yanbo Zhao 			(Sr. Analyst 	- Senior)
 	- Nicholas Barone 		(Jr. Analyst 	- Freshman)
-	- Tony Deng				(Jr. Analyst 	- Junior)
+	- Tony Deng			(Jr. Analyst 	- Junior)
 
 ### Current Projects & Status
 
@@ -21,14 +21,14 @@ This Git repository is dedicated to the projects and tools developed by the Quan
 	- Outside Fund Trackers
 
 ## Current RIF Leadership
-	- President										Daniel Kim (Junior)
-	- Director of Internal Affairs					Ben Karenas (Sophomore)
+	- President						Daniel Kim (Junior)
+	- Director of Internal Affairs				Ben Karenas (Sophomore)
 	- Director of Quantitative Operations			Patrick Miramontes (Senior)
-	- Faculty Advisor	Steven Todd 
+	- Faculty Advisor					Steven Todd 
 
 ## Contact Us
 	- rif@luc.edu
-	- pmiramontes@luc.edu Director of Quantitative Operations
+	- pmiramontes@luc.edu - Director of Quantitative Operations
 	
 ## Past Analysts
 
